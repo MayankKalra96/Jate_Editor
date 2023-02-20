@@ -46,4 +46,8 @@ drive: https://drive.google.com/file/d/1wOn0vyDqZf7w4TdP94rqbWbw-4uU5Bbv/view?us
 
 ## Contribution
 email: kalrmayank810@gmail.com
+
 GitHub: github.com/MayankKalra96
+
+Heroku App: https://jate-text-editor-mayank.herokuapp.com/
+
